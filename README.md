@@ -6,26 +6,32 @@
 
 ## 📌 Overview
 
-Many products that are popular globally are not available in India, and at the same time, many authentic Indian products never reach international buyers. 
+Many products that are popular globally are not available in India, and at the same time, many authentic Indian products never reach international buyers.
 
 This project aims to bridge that gap by creating a marketplace where users can easily discover products across borders, understand the full cost upfront, and buy with confidence.
+
 
 ---
 
 ## ❗ Problem Statement
 
-Cross-border shopping currently faces several real-world challenges:
+Cross-border shopping faces several real-world challenges:
 
-* **Limited Availability:** Many global brands and niche products are not officially available in India, and Indian products are not listed on foreign platforms.
-* **High Shipping Costs:** International shipping for small orders is often prohibitively expensive.
-* **Lack of Transparency:** Customs duties and taxes are unclear until delivery, leading to surprise charges.
-* **Trust Issues:** Buyers often face delays and rely on informal, unreliable methods to get products.
+Many global brands and niche products are not officially available in India
 
-**Result:** Users avoid cross-border shopping due to friction and uncertainty.
+Many Indian products are not listed or promoted on foreign platforms
+
+High international shipping costs make small orders expensive
+
+Customs duties and taxes are unclear until delivery
+
+Buyers often face surprise charges and delays
+
+Because of these issues, users either avoid cross-border shopping or rely on informal and unreliable methods.
 
 ---
 
-## ✨ Key Features
+##  Key Features
 
 ### 🛍️ Product Discovery
 * **🌍 World → India:** Find international products that are not easily available in domestic markets.
@@ -73,13 +79,9 @@ This project is developed as part of **Project-Based Learning (PBL)** and focuse
 
 ## 🚧 Project Status
 
-**Current Phase: Planning & Research (Review–1)**
+**Planning & Research Phase (Review-1)**
 
-We are currently working on:
-- [x] Problem Validation
-- [x] Feature Definition
-- [ ] System Design Architecture
-- [ ] Database Schema Design
+Currently working on problem validation, feature definition, and system design.
 
 ---
 
