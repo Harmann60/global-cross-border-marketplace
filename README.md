@@ -34,16 +34,16 @@ Because of these issues, users either avoid cross-border shopping or rely on inf
 ##  Key Features
 
 ###  Product Discovery
-* ** World → India:** Find international products that are not easily available in domestic markets.
-* ** India → World:** Showcase authentic Indian products for global buyers.
+* **World → India:** Find international products that are not easily available in domestic markets.
+* **India → World:** Showcase authentic Indian products for global buyers.
 
 ###  Cost & Economy
 * **Transparent Landed Price:** View the final price *including* shipping, customs, and taxes before ordering. No hidden shocks.
-* ** Group Buying:** A unique feature to combine orders to the same destination, significantly reducing international shipping costs.
+* **Group Buying:** A unique feature to combine orders to the same destination, significantly reducing international shipping costs.
 
 ###  System Features
-* ** Multi-language Support:** Improves accessibility for users across different regions and languages.
-* ** Admin Dashboard:** Efficient management of products, users, and orders.
+* **Multi-language Support:** Improves accessibility for users across different regions and languages.
+* **Admin Dashboard:** Efficient management of products, users, and orders.
 
 ---
 
