@@ -1,9 +1,5 @@
 # 🌍 Global Cross-Border Marketplace Platform
 
-![Status](https://img.shields.io/badge/Status-Planning%20%26%20Research-blue?style=flat-square)
-![Review](https://img.shields.io/badge/Review-1-orange?style=flat-square)
-![Stack](https://img.shields.io/badge/Stack-MERN-green?style=flat-square)
-
 > **A platform that simplifies cross-border product discovery between India and the rest of the world, making hard-to-find products accessible with transparent pricing.**
 
 ---
