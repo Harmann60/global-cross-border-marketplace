@@ -56,16 +56,6 @@ This project is developed as part of **Project-Based Learning (PBL)** and focuse
 
 ---
 
-##  Team
-
-| Name | Role | Responsibilities |
-| :--- | :--- | :--- |
-| **Harman** | **Frontend & UI/UX** | UI Design, Next.js Implementation, UX Research |
-| **Jalaj** | **Backend & APIs** | Server Logic, Database Management, API Architecture |
-| **Gauri** | **Localization** | Multi-language Support, Translation Logic |
-
----
-
 ##  Tech Stack (Proposed)
 
 | Component | Technology |
@@ -78,8 +68,6 @@ This project is developed as part of **Project-Based Learning (PBL)** and focuse
 ---
 
 ##  Project Status
-
-**Planning & Research Phase (Review-1)**
 
 Currently working on problem validation, feature definition, and system design.
 
