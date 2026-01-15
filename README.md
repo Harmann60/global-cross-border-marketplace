@@ -4,6 +4,14 @@
 
 ---
 
+## About Kirisa
+
+Kirisa is the proposed company name behind this project. The name is inspired by the idea of global connectivity, symbolizing commerce from the first sunrise to the last. The concept draws inspiration from Kiribati, one of the first places in the world to witness sunrise, and extends to regions that experience the last sunrise, representing a complete global cycle.
+
+Kirisa reflects the core vision of the project — connecting India and the world through a unified cross-border marketplace that enables transparent, affordable, and accessible international commerce. The name emphasizes inclusivity, global reach, and seamless connectivity across borders.
+
+---
+
 ##  Overview
 
 Many products that are popular globally are not available in India, and at the same time, many authentic Indian products never reach international buyers.
