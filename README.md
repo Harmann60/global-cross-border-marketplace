@@ -83,4 +83,4 @@ Currently working on problem validation, feature definition, and system design.
 
 ## 📄 License
 
-This is an educational project developed under the MIT License.
+This is a Personal project developed under the MIT License.
